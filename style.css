@@ -13,16 +13,20 @@ h1 {
   text-align: center;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
-}
-
 a {
-  padding: 10px, 10px;
+  padding-right: 10px;
+  padding-left: 10px;
   background: grey; 
   text-align: center;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+  font-size: 10px;
+  text-align: center;
+}
+
 
 #details {
   display: block;
